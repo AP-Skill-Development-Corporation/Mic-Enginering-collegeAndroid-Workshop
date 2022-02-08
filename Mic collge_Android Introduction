@@ -1,0 +1,99 @@
+Good Afternoon All,
+Android :
+Android is an operating system,And it is an open source
+and it based on the linux kernel used for mobile device.
+Such as smart phones, tablets,computers etc.
+Android was developed by Google and later by Open Handset Alliances.
+
+Java and kotlin languages are mainly used to write the android code
+even throught other languages are also used.
+
+History of Android:
+Android development was started in the year 2005 .
+Stared by Android Inc,later bought by Google in the year 2005.
+First beta version of the android software development kit was realesad
+by google in2007.
+First commerical was released Android 1.0 in september 2008.
+
+Features of Android:
+1.Android supports multiple languages.
+2.Android supports a multi tasking means we can switch between the applications.
+3.supports audio/video
+4.os basic screen provide beatiful and intutive userinterface.
+5.supports multitouch
+6.sqlite a light weight relational database is used for storage purpose.
+7.contains multiple api s to support a location tracking service such as GPS.
+
+1.Android studio Installation Process
+2.Registration Process
+3.How to enable usb debugging  Moblie_name.
+
+Layouts in Android?
+layout defines a structure for userinterface in an activity or a component of uI.
+View :View is a basic building block of the userinterface.
+View is a small rectangular box which responds to user inputs.
+eg:Edit Text,Button,checkboxes.
+ViewsGroups:
+Collections of views and other child views.it is an invisible part
+and the base class for layouts and view containers.
+
+declare alayout in 2 ways 
+declare UI elements in xml:
+instatiate layout elements at runtime.
+
+Andorid Layout types :
+1.Linear layout
+2.Relative layout
+3.constraint Layout 
+4.Frame Layout
+5.Table Layout
+6.Coordination Layout
+
+Layout Attributes:
+android:id 
+specify the id of the view and viewgroup
+android:layout_width
+specify the width of the view and viewgroup
+android:layout_height
+specify the height of the view and viewgroup
+android:layout_margin
+creates space outside the view border.
+android:padding
+create space inside the viewborder.
+android:layout_gravity
+based on the position.
+android:layout_weight
+specifies how much of the extra space in the layout shoul;d be allocated.
+
+Android UI Widgets:
+Textview
+EditText
+Button
+Image Button
+Radio Button
+RadioGroup
+Toggle Button
+Switch
+Checkbox
+ImageView
+ProgressBar
+Seekbar
+Rating Bar
+Toast is a notification message that pop up for a specific duration.
+Timepicker
+Datepicker
+spinner
+Autocomplete TextView
+
+Android Architecture:
+1)Applications:Top layer of the android architeture.you write your 
+application to be installed on this layer.Eg:Contactbook,Games
+2.Application Framework:classes which are used to create a android application
+ActivityManager,Contentprovidr,NotifcationsManager
+3.libraries:freetype,SQLITE ,Media,c runtime library.
+4Android Runtime:DVM responsibel to run the android application.
+5.Linux kernel:power management,memory management,device managementresource management.
+Android was created on the open source kernal of the Linux.
+
+
+Thank you All .
